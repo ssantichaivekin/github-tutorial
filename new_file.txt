@@ -1,3 +1,5 @@
 This is a content of the new file.
 This is another line.
 This is yet another line.
+hahaha.
+hoho.
